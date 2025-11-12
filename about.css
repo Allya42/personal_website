@@ -16,7 +16,7 @@ body {
 
 /* ===== HEADER SECTION ===== */
 .header {
-  background-color: #fff;
+  background-color:rgba(210, 105, 30, 0.612);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
   padding: 1rem 6%;
   position: sticky;
